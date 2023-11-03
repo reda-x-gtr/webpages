@@ -1,0 +1,29 @@
+[33mcommit 5bfeddd7e8934d09a6cec3666fcc9d3939e518e3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: reda <elgountarireda@gmail.com>
+Date:   Fri Nov 3 13:59:28 2023 +0100
+
+    add hello reda
+
+[33mcommit e2585b314a0f48ca56005c7891cad3b75e599c28[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: reda el gountari <131091598+reda-x-gtr@users.noreply.github.com>
+Date:   Fri Nov 3 13:51:38 2023 +0100
+
+    Create build.yml
+
+[33mcommit bb87268565d400bc11fe33463601eba9717a79e5[m
+Author: reda el gountari <131091598+reda-x-gtr@users.noreply.github.com>
+Date:   Fri Nov 3 13:50:40 2023 +0100
+
+    Create sonar-project.properties
+
+[33mcommit ec143bd7c3caabaecc2ef7e3dd6582a4f214e310[m
+Author: reda el gountari <131091598+reda-x-gtr@users.noreply.github.com>
+Date:   Fri Nov 3 13:42:38 2023 +0100
+
+    Create page.php
+
+[33mcommit c4b5048047392ff9fca1d4a588b6a964a4d10a32[m
+Author: reda el gountari <131091598+reda-x-gtr@users.noreply.github.com>
+Date:   Wed Nov 1 22:52:38 2023 +0100
+
+    Initial commit
